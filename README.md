@@ -7,9 +7,9 @@ Breakthru is a 2D arcade-style game where you must rotate your paddle and avoid 
 ## Controls
 
 ### Computer
-Right arrow - rotate clockwise
-Left arrow - rotate counterclockwise
+* Right arrow - rotate clockwise
+* Left arrow - rotate counterclockwise
 
 ### Mobile
-Touch Right side of screen - rotate clockwise
-Touch left side of screen - rotate counterclockwise
+* Touch Right side of screen - rotate clockwise
+* Touch left side of screen - rotate counterclockwise
