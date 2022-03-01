@@ -1,6 +1,6 @@
 # Breakthru
 ## Game Demo Video (click the image below to watch on youtube)
-<a href="https://youtu.be/sHPxUBMjbvw" target="_blank">
+<a href="https://youtu.be/sHPxUBMjbvw" target="\_blank">
    <img src="https://github.com/BrosephB/Breakthru-Build/blob/main/breakthrough%20social%20media.png" alt="Breakthru demo video on youtube">
 </a>
 
