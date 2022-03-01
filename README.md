@@ -1,6 +1,6 @@
 # Breakthru
 ## Game Demo Video (click the image below to watch on youtube)
-[![Breakthru Demo video on youtube](https://github.com/BrosephB/Breakthru-Build/blob/main/breakthrough%20social%20media.png)](https://youtu.be/sHPxUBMjbvw)
+[![Breakthru Demo video on youtube](https://github.com/BrosephB/Breakthru-Build/blob/main/breakthrough%20social%20media.png)](https://youtu.be/sHPxUBMjbvw){:target="\_blank"}
 
 ## Game Overview
 Breakthru is an arcade-style game that takes the idea of one dimensional player movement from Atari breakout.
